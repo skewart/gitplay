@@ -3,5 +3,5 @@ require 'github'
 
 Dotenv.load
 
-puts "Hello, World."
+puts "Hello, World!"
 
